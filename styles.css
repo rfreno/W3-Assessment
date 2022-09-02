@@ -60,3 +60,23 @@ img {
 	border-radius: 15px;
 	border: 2px solid #f7963b;
 }
+
+.landing {
+	display: block;
+	border-radius: 10px;
+	max-width: 100%;
+	margin:auto;
+}
+
+.resBtn {
+	display:block;
+	margin:auto;
+	font-size: 20pt;
+	border-radius: 8px;
+	background-color: #d89dfa;
+}
+
+.sugg {
+	text-align: center;
+	font-weight: bolder;
+}
