@@ -36,3 +36,27 @@ input {
 img {
 	max-width: 300px;
 }
+
+h2 {
+	text-decoration: underline;
+}
+
+img {
+	display:flex;
+}
+
+.movies {
+	color:darkblue;
+	font-family: monospace;
+}
+
+.inline {
+	display: inline-flex;
+}
+
+.sunny {
+	background-color:#ffda73;
+	font-size: 12pt;
+	border-radius: 15px;
+	border: 2px solid #f7963b;
+}
